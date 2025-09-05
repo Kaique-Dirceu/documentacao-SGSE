@@ -1,0 +1,46 @@
+site_name: Documentação
+nav:
+  - Home: index.md
+
+  - Supervisor:
+    - Gerenciar servidores: supervisor/example.md
+
+  - Gestão de Docentes: 
+    - Gerenciar Ocorrências: gestao-docentes/gerenciar-ocorrencias.md
+
+  - Gestão Escolar:
+    - Turmas: gestao-escolar/example.md
+
+  - Prestação de Contas:
+    - PDDA: prestacao-contas/example.md
+
+theme:
+  name: material
+  palette:
+    # Tema claro
+    - scheme: default
+      primary: blue
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+
+    # Tema escuro
+    - scheme: slate
+      primary: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
+  logo: assets/logo.png
+  favicon: images/favicon.png
+  language: pt
+
+plugins:
+  - search
+  - glightbox
+
+extra:
+  generator: false
+
+extra_css:
+  - css/extra.css
