@@ -4,5 +4,6 @@ Seja bem-vindo ao Manual do Sistema da Secretaria de Educação, o espaço ofici
 
 Este manual foi elaborado para auxiliar professores, gestores e servidores no uso eficiente das ferramentas disponíveis, garantindo que as informações sejam registradas, consultadas e gerenciadas de forma segura e organizada.
 
+# Alteração feita pela branch 2 UHU
 
 ## Alteração feita pela branch
